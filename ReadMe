@@ -13,7 +13,7 @@
 
 5. Edit CMakeLists.txt:
    set(PROJECT_NAME blink)
-   set(PICO_SDK_PATH "/home/marnie/Documents/pico/pico-sdk")
+   set(PICO_SDK_PATH "/home/user/Documents/pico/pico-sdk")
 
 6. Build:
    mkdir build && cd build
