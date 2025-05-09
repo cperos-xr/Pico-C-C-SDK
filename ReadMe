@@ -1,4 +1,6 @@
 # Quick Pico Build Guide (Hardcoded SDK Path)
+https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf
+
 
 1. Install tools:
    sudo apt install gcc-arm-none-eabi cmake build-essential
